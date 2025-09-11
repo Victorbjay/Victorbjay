@@ -33,7 +33,7 @@ I'm a passionate Frontend Developer dedicated to building and optimizing interac
 
 - 👯 I’m looking to collaborate on **innovative freelance projects** that solve real-world problems and push the boundaries of web technology.
 
-- 📫 How to reach me: **[okpevictor84@gmail.com]** or connect with me on LinkedIn!
+- 📫 How to reach me: **okpevictor84@gmail.com** or connect with me on LinkedIn!
 
 - ⚡ Fun fact: I enjoy solving logical puzzles and debugging complex team projects!
 
@@ -46,7 +46,7 @@ This is the technology I love to work with. For a full list, please check out my
 | Category | Technologies |
 |---|---|
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> *(...add more as you learn them)* |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> *(...I'll add more when I've tried them) |
 | **Tools & Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
 
 ---
@@ -55,6 +55,7 @@ This is the technology I love to work with. For a full list, please check out my
 
 <div align="center">
   
+
   <img 
     src="https://github-readme-stats.anuraghazra.app/api?username=Victorbjay&show_icons=true&theme=merko&include_all_commits=true&count_private=true" 
     alt="Victor's GitHub Stats"
