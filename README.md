@@ -57,19 +57,18 @@ This is the technology I love to work with. For a full list, please check out my
   
 
   <img 
-    src="https://github-readme-stats.anuraghazra.app/api?username=Victorbjay&show_icons=true&theme=merko&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.anuraghazra.app/api?username=Victorbjay&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_bust=1" 
     alt="Victor's GitHub Stats"
   />
   
   <br/>
   
   <img 
-    src="https://github-readme-stats.anuraghazra.app/api/top-langs/?username=Victorbjay&layout=compact&langs_count=7&theme=merko"
+    src="https://github-readme-stats.anuraghazra.app/api/top-langs/?username=Victorbjay&layout=compact&langs_count=7&theme=merko&cache_bust=1"
     alt="Victor's Top Languages"
   />
   
 </div>
-
 ---
 
 ### 🚀 Let's build something amazing together!
