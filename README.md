@@ -55,13 +55,17 @@ This is the technology I love to work with. For a full list, please check out my
 
 <div align="center">
   
-  <!-- 
-    IMPORTANT: Update the link to use your username! 
-    Replace 'Victorbjay' with your GitHub username in both image URLs.
-  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Victorbjay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img 
+    src="https://github-readme-stats.anuraghazra.app/api?username=Victorbjay&show_icons=true&theme=merko&include_all_commits=true&count_private=true" 
+    alt="Victor's GitHub Stats"
+  />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorbjay&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img 
+    src="https://github-readme-stats.anuraghazra.app/api/top-langs/?username=Victorbjay&layout=compact&langs_count=7&theme=merko"
+    alt="Victor's Top Languages"
+  />
   
 </div>
 
