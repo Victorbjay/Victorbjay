@@ -147,15 +147,15 @@ Currently Learning
 🎯 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Victorbjay/altcare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorbjay&repo=todo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Victorbjay/python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorbjay&repo=python_framework&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/Victorbjay/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorbjay&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Victorbjay/todo-pro-nextjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorbjay&repo=todo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 </div>
 
-💬 Random Dev Quote
+💬 Random Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
