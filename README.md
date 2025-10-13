@@ -30,8 +30,6 @@
 
 <div align="center">
 
-### 👨‍💻 About Victor
-
 <details open>
   <summary><strong>🎯 Role & Location</strong></summary>
   <p align="center"><em>Frontend Developer</em> based in <strong>Nigeria 🇳🇬</strong></p>
