@@ -23,8 +23,8 @@
   </p>
 
   <!-- Short Intro Text -->
-  <p><strong>Frontend Developer based in Nigeria 🇳🇬</strong></p>
-  <p>Building responsive, user-centered web applications. Open for freelance projects, remote roles, and open-source collaboration.</p>
+  <p><strong>Software Developer based in Nigeria 🇳🇬</strong></p>
+  <p>Building responsive, user-centered web applications and AI Powered bots. Open for freelance projects, remote roles, and open-source collaboration.</p>
 
 </div>
 
